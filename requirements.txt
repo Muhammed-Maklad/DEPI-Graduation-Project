@@ -1,0 +1,8 @@
+streamlit==1.25.0
+torch==2.0.1
+whisper==1.1.0
+sounddevice==0.4.6
+numpy==1.24.4
+transformers==4.30.0
+deep-translator==1.8.3
+soundfile==0.11.0
