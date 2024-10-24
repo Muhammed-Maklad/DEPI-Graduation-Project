@@ -1,8 +1,30 @@
+# Streamlit for app interface
 streamlit==1.25.0
+
+# PyTorch for machine learning models
 torch==2.4.1
+
+# Whisper for speech-to-text (assuming it's openai-whisper)
 whisper==1.1.0
+
+# Sounddevice for capturing voice input
 sounddevice==0.4.6
+
+# Numpy for numerical computations
 numpy==1.24.4
-transformers==4.30.0
-deep-translator==1.8.3
-soundfile==0.11.0
+
+# Tokenizers for processing text data
+tokenizers==0.13.2
+
+# Sentence transformers or HuggingFace transformers (optional, if used)
+transformers==4.33.0  # You can adjust the version if required.
+
+# Add any additional dependencies as needed
+# For language translation (if you are using Google Translator API)
+googletrans==4.0.0rc1
+
+# For sentiment analysis models, e.g., DistilBERT
+sentence-transformers==2.2.2
+
+# Llama models may require this if using Huggingface’s model loading
+accelerate==0.22.0
