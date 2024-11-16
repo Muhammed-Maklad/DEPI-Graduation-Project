@@ -38,8 +38,8 @@ To run this project locally, follow these steps:
    ```
 
 2. **Select an Option**:
-   - Choose "Sentiment Analysis" to input text or record audio for sentiment classification.
-   - Choose "Chat Bot" to upload a CSV of product reviews or provide a URL to scrape Amazon reviews. The chatbot then answers queries based on extracted data.
+   - Choose "Sentiment Analysis" to input `text` or `record audio` for sentiment classification.
+   - Choose "Chat Bot" to upload a `CSV` of product reviews or provide a `URL` to scrape Amazon reviews. The chatbot then answers queries based on extracted data.
 
 3. **Recording Audio**:
    - Click the microphone button to record audio input for transcription and sentiment analysis.
@@ -55,6 +55,11 @@ To run this project locally, follow these steps:
 - **`scraper.py`**:
    - Scrapes Amazon reviews and processes details such as reviewer name, rating, review title, date, and full content.
    - Classifies sentiment based on star ratings and saves results to a CSV file.
+ 
+ ## Demo 
+Alternatively, watch a short video walkthrough of the app's functionality:
+![Demo Video](path/to/demo-video.gif)  
+
 
 ## Contributing Guidelines
 We welcome contributions! Please follow these steps:
