@@ -1,4 +1,4 @@
-# Project Title: Multilingual Sentiment Analysis and Business Intelligence Chatbot
+![Chatbot Logo](https://github.com/user-attachments/assets/ea8f09f9-7a93-4aab-b74b-61d846971cbe)
 
 ## Project Description
 This project is a powerful web application designed to analyze sentiment in multilingual text and facilitate business intelligence through a chatbot. Using Streamlit as the front-end, it integrates state-of-the-art machine learning models, including Whisper for audio transcription, a fine-tuned DistilBERT for sentiment classification, and advanced language models for generating intelligent responses. The application can transcribe spoken input, classify sentiment in customer feedback, and answer business-related queries based on product reviews extracted via web scraping from Amazon.
@@ -57,8 +57,11 @@ To run this project locally, follow these steps:
    - Classifies sentiment based on star ratings and saves results to a CSV file.
  
  ## Demo 
-Alternatively, watch a short video walkthrough of the app's functionality:
-![Demo Video](path/to/demo-video.gif)  
+Alternatively, watch a short video walkthrough of the app's functionality:<video controls>
+  <source src="https://github.com/user-attachments/assets/264e4a43-4d19-4de1-b379-a903ab7cc896" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## Contributing Guidelines
