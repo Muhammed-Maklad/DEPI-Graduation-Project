@@ -56,11 +56,13 @@ To run this project locally, follow these steps:
    - Scrapes Amazon reviews and processes details such as reviewer name, rating, review title, date, and full content.
    - Classifies sentiment based on star ratings and saves results to a CSV file.
  
- ## Demo 
-Alternatively, watch a short video walkthrough of the app's functionality:<video controls>
+## Demo
+Alternatively, watch a short video walkthrough of the app's functionality:
+<video controls>
   <source src="https://github.com/user-attachments/assets/264e4a43-4d19-4de1-b379-a903ab7cc896" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
 
